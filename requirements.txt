@@ -1,2 +1,2 @@
 discord.py
-https://github.com/Rapptz/discord.py@async
+git:https://github.com/Rapptz/discord.py@async
